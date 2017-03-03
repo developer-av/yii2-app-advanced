@@ -3,6 +3,8 @@ Yii 2 custom Advanced Project Template
 
 Documentation is at [docs/guide/README.md](docs/guide/README.md).
 
+[![Build Status](https://travis-ci.org/developer-av/yii2-app-advanced.svg?branch=master)](https://travis-ci.org/developer-av/yii2-app-advanced)
+
 DIRECTORY STRUCTURE
 -------------------
 
